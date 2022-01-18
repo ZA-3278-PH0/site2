@@ -1,0 +1,35 @@
+﻿body {font-family: Verdana;
+      
+}
+
+h1 {
+    font-size: 32pt;
+    
+}
+h1 em {
+    font-weight: normal;
+} 
+h1 {text-align: center;}
+
+p {
+    font-size: 14pt !important; 
+    
+}   
+  
+   p.greeting {font-size: 24pt;}
+  .picture img {width: 67%;}
+  /*
+  Укажем шрифт для тега <body>-
+  родителя всех элементов. Так удобнее
+  */
+  .bigger {font-size: 16pt;}
+    
+ 
+  .advertising {margin-left: 30pt;}
+  .advertising {margin-top: 5pt;}
+  .advertising {margin-bottom: 5pt;}
+  .advertising div {font-size: 12pt;}
+  header {text-align: center;}
+  main {text-align: justify;}
+  footer {text-align: right;}
+  
